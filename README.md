@@ -1,2 +1,3 @@
 # hello-world
-Place where you store ideas, resources, or even share and discuss things with others.
+
+Hi! This is me. I am just trying to make a new branch.
